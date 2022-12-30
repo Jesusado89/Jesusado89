@@ -10,7 +10,7 @@
 
 </div>
 
-¡Welcome to my profile! Hi, I'm Jesús Industrial Engineer and Full Stack Web Developer, I like to create things, research, learn and teach what I know, I have knowledge in Front End and Back End, I can work with the following javascript languages, Node js, React, Redux, Express , PostgreSQL.
+¡Welcome to my profile! Hi, I'm Jesús Industrial Engineer and Full Stack Web Developer, I like to create things, research, learn and teach what I know, I have knowledge in Front End and Back End, I can work with the following javascript, Python, languages, NodeJs, Django, Flask, Express ,  React, Redux, PostgreSQL, MongoDB.
  <br/>
 
 ## 🙋🏻‍♂️ About Me 
@@ -28,7 +28,7 @@ const aboutMe = {
       backEnd: {
          js: ["NodeJs", "Express", "Django", "Flask"],
       },
-      databases: ["SQL", "postgreSQL", "MongoDB"]
+      databases: ["SQL", "PostgreSQL", "MongoDB"]
    },
    ,
 };
@@ -40,7 +40,7 @@ I was able to learn technologies such as:
 ## 🖥️My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,html,css,styledcomponents,bootstrap,react,redux,nodejs,express,django,flask,postgres,mongodb,git,github" />
+    <img src="https://skillicons.dev/icons?i=js,python,html,css,bootstrap,react,redux,nodejs,express,django,flask,postgres,mongodb,git,github" />
   </a>
 </p>
 
