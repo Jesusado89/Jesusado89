@@ -56,4 +56,4 @@ Pude aprender tecnologías como:
 ---
 
 ### ✉️ Si quieres saber mas sobre mi
-* Puedes contactarme por mi [email](mailto:jesusado.89@gmail.com) o mi [Linkedln]([https://www.linkedin.com/in/bryan-mill%C3%B3n/](https://www.linkedin.com/in/jes%C3%BAs-datica-6b0b98197/))!
+* Puedes contactarme por mi [email](mailto:jesusado.89@gmail.com) o mi [Linkedln](https://www.linkedin.com/in/jes%C3%BAs-datica-6b0b98197/)!
