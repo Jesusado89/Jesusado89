@@ -10,7 +10,7 @@
 
 </div>
 
-¡Welcome to my profile! Hi, I'm Jesús Industrial Engineer and Full Stack Web Developer, I like to create things, research, learn and teach what I know, I have knowledge in Front End and Back End, I can work with the following javascript, Python, languages, NodeJs, Django, Flask, Express ,  React, Redux, PostgreSQL, MongoDB.
+¡Welcome to my profile! Hi, I'm Jesús Industrial Engineer and Full-Stack Web Developer, I like to create things, research, learn and teach what I know, I have knowledge in Front-end and Back-end, I can work with the following Javascript, Python, languages, NodeJs, Django, Flask, Express, Html, Css, React.js, Redux, PostgreSQL, MongoDB.
  <br/>
 
 ## 🙋🏻‍♂️ About Me 
