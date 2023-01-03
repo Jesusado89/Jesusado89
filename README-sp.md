@@ -2,7 +2,7 @@
 
 # ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">soy Jesús Datica </h1>
 
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761170825f412618d54485b34195ed64ee62ce2fc7ad&rid=giphy.gif&ct=g" width=200 />
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761170825f412618d54485b34195ed64ee62ce2fc7ad&rid=giphy.gif&ct=g" width=300 />
 
 [English](./README.md)
 
