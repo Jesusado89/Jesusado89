@@ -2,7 +2,7 @@
 
 # ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">soy Jesús Datica </h1>
 
-<img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47fgjyv7k23bs3tpq8imq2tdf299yjveksn3ddl1uw&rid=giphy.gif" width=200 />
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761170825f412618d54485b34195ed64ee62ce2fc7ad&rid=giphy.gif&ct=g" width=200 />
 
 [English](./README.md)
 
@@ -43,7 +43,7 @@ Pude aprender tecnologías como:
 </p>
 
 ## 📈 Mis Estadisticas
-<a href="http://www.github.com/Jesusado89"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanMillon&stroke=0891b2&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+<a href="http://www.github.com/Jesusado89"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesusado89&stroke=0891b2&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
 <a href="http://www.github.com/Jesusado89
 "><img src="https://github-readme-stats.vercel.app/api?username=Jesusado89&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jesusado89
